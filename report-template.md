@@ -23,12 +23,7 @@ TODO: it has performed better than the previous one
 TODO: optimizing hyperparameters so that I can try multiple architectures.
 
 ### Create a table with the models you ran, the hyperparameters modified, and the kaggle score.
-|model|hpo1|hpo2|hpo3|score|
-|--|--|--|--|--|
-|initial|?|?|?|?|
-|add_features|?|?|?|?|
-|hpo|?|?|?|?|
-
+I have prepared a table at the end of the jupyter notebook file.
 ### Create a line plot showing the top model score for the three (or more) training runs during the project.
 
 TODO: Replace the image below with your own.
